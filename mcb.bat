@@ -1,0 +1,1 @@
+@pyw.exe C:\MyPythonScripts\mcb.pyw %*
